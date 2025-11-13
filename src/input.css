@@ -48,3 +48,8 @@
 
   --font-manrope: "Manrope", sans-serif;
 }
+
+:root{
+  --green-300: oklch(0.8913 0.186 156.97);
+
+}
