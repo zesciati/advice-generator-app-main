@@ -1,0 +1,7 @@
+frontend:
+  ✔ button animation dengan membesar dan cahaya @done(25-11-13 17:26)
+    ✔ cursor mengambang di atas button @done(25-11-13 17:07)
+    ✔ muncul warna dan bersamaan button melebar @done(25-11-13 17:26)
+
+backend:
+  ☐ Manggil
