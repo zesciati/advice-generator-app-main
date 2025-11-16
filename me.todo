@@ -4,4 +4,7 @@ frontend:
     ✔ muncul warna dan bersamaan button melebar @done(25-11-13 17:26)
 
 backend:
-  ☐ Manggil
+  ☐ hubungkan tag ke js
+  ☐ mendengarkan button dengan addEventListener
+  ☐ fungsi untuk API
+    ☐ 
