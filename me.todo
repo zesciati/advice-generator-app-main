@@ -7,4 +7,7 @@ backend:
   ☐ hubungkan tag ke js
   ☐ mendengarkan button dengan addEventListener
   ☐ fungsi untuk API
+    ☐ url api
+    ☐ ketika button di pencet maka button hilang
+    ☐ muncul konten dengan waktu yang ditentukan
     ☐ 
