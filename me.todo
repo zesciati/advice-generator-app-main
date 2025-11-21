@@ -4,10 +4,10 @@ frontend:
     ✔ muncul warna dan bersamaan button melebar @done(25-11-13 17:26)
 
 backend:
-  ☐ hubungkan tag ke js
-  ☐ mendengarkan button dengan addEventListener
+  ✔ hubungkan tag ke js @done(25-11-21 14:58)
+  ✔ mendengarkan button dengan addEventListener @done(25-11-21 14:58)
   ☐ fungsi untuk API
-    ☐ url api
-    ☐ ketika button di pencet maka button hilang
+    ✔ url api @done(25-11-21 14:58)
+    ✔ ketika button di pencet maka quote dan hashtag hilang @done(25-11-21 14:58)
     ☐ muncul konten dengan waktu yang ditentukan
     ☐ 

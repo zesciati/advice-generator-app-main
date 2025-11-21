@@ -11,9 +11,21 @@ async function getQuote() {
 
   try{
   const res = await fetch(quoteAPI, {cache: "no-store"});
+  
+  if (!res.ok){
+    throw new Error("Failed to fetch advice");
+  }
+
+  
   const data = await res.json;
 
-  }catch{
+  console.log(data);
+
+  // const {id, advice} = data.slip;
+
+
+
+  }catch(error){
 
   }finally{
 
@@ -22,3 +34,4 @@ async function getQuote() {
 
 
 button.addEventListener("click", getQuote);
+
